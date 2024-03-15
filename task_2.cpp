@@ -250,7 +250,7 @@ int main()
     {
         sizeTwoArr = rows3;
     }
-    int* generalValuesTwoArr = createArr(size);
+    int* generalValuesTwoArr = createArr(sizeTwoArr);
 
 
     // assign a pointer to the smallest array
