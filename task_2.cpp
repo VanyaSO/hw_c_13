@@ -253,6 +253,7 @@ int main()
     int* generalValuesTwoArr = createArr(sizeTwoArr);
 
 
+
     // assign a pointer to the smallest array
     int** ptrArr = nullptr;
     setPtrArr(ptrArr, index, arrA, arrB, arrC);
